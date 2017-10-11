@@ -1,4 +1,4 @@
-# -US-Gross-Domestic-Product-Bar-Chart
+# Scatterplot-Graph
 freeCodeCamp D3 project
 ### IDE
 >Cloud9
