@@ -5,4 +5,4 @@ freeCodeCamp D3 project
 ### Libraries 
 >D3
 ### To see the result
-*[US-Gross-Domestic-Product-Bar-Chart](https://codepen.io/BeauBo/full/rGKOZb/)*
+*[Scatterplot-Graph](https://codepen.io/BeauBo/full/rGKOZb/)*
